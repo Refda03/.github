@@ -1,4 +1,4 @@
-# Company Capstone Team C23-PS455
+# Product Capstone Team C23-PS455
 
 Hey there! We are the C23-PS455 team from Bangkit Academy 2023, and we're thrilled to introduce our Capstone Project repository—Scantion: Skin Cancer Detector. Our mission is to develop a cutting-edge mobile application that empowers early detection of skin cancer.
 

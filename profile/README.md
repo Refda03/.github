@@ -11,6 +11,6 @@ Aqiilah Ayya Danastri | C071DSY2649 | Cloud Computin | [Profile](https://github.
 Salsabiela Khairunnisa Siregar | M038DKY4194 | Machine Learning | [Profile](https://github.com/salsabielaa)
 Andini Vira Salsabilla Zulkarnain Pakaya | M038DKY4293 | Machine Learning | [Profile](https://github.com/)
 Wahyu Patriaji | A251DSX2441 | Mobile Development | [Profile](https://github.com/whyaji)
-Mohamad Rehza Efda | A251DSX2718 | Mobile Development | [Profile](https://github.com/)
+Mohamad Rehza Efda | A251DSX2718 | Mobile Development | [Profile](https://github.com/refda03)
 
 Feel free to contact us if you want to reach us.
